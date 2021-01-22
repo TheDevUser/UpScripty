@@ -14,7 +14,7 @@ loadstring(game:HttpGet('https://pastebin.com/raw/PPgvwLs1', true))()
 # UI
 ## Ubstract Framework/UI Lib
 
-#### Note: Asbtract UI was note made by me.
+#### Note: Asbtract UI was not made by me.
 
 #### Asbtract UI Engine
 
